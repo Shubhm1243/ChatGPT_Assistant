@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # chatgpt_assistant
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# ChatGPT_Assistant
+>>>>>>> d183ab18fa5898e14d2de508d4f54c62376821ee
