@@ -34,6 +34,7 @@ class OpenAIService {
           case 'yes':
           case 'Yes.':
           case 'yes.':
+          case 'YES':
             final res = await dallEAPI(prompt);
             return res;
           default:
@@ -42,6 +43,7 @@ class OpenAIService {
 
         }
       }
+
       return 'An Internal Error Occurred';
     } catch (e) {
       return e.toString();
